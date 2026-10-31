@@ -18,7 +18,7 @@ No necesita instalar nada, ni servidor, ni cuenta. Funciona en local.
 
 ## Cómo usarlo
 
-1. Descarga **`editor-master.html`** (botón *Download raw file* en GitHub, o clona el repo).
+1. Descarga **`Editor-Master.html`** (botón *Download raw file* en GitHub, o clona el repo).
 2. Ábrelo con doble clic en un navegador moderno (Chrome, Edge, Firefox o Safari).
 3. Empieza desde el proyecto de ejemplo o importa uno tuyo (`.json`).
 4. Cambia los textos, imágenes y enlaces por los tuyos y revisa la vista previa.
